@@ -292,9 +292,9 @@ This grouped bar chart compares film rating distributions across the top 10 coun
 
 ![Word cloud for Film Justifications](images/word_cloud_for_classification_justifications.png)
 
-![Top 20 Words in Film Synopsis](images/top_20_most_common_words_in_film_synopsis.png)
+![Top 20 Words in Film Synopsis](images/top_20_most_common_words_in_film_synopses.png)
 
-![Top 20 Words in Film Justifications](images/top_20_most_common_words_in_classification_justifications.png)
+![Top 20 Words in Film Justifications](images/top_20_most_common_words_in_classification_justification.png)
 
 **Justifications**
 
