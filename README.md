@@ -467,6 +467,19 @@ Below are the results of GridSearchCV and evaluation metrics for each classifica
 
   * Deployed the model using streamlit
 
+ ## Project Challenges
+* Missing Data: Key columns like VENUE and CONTACT had many null values.
+
+* Data Cleaning: Inconsistent formats in fields like DURATION(MINS) required extensive preprocessing.
+
+* Class Imbalance: Rare ratings like 'R' had very few samples, hurting model recall.
+
+* Similar Class Overlap: Models confused PG, 16, and 18 due to feature similarity.
+
+* Text Feature Complexity: High-dimensional TF-IDF features from SYNOPSIS increased model complexity.
+
+* Evaluation Limitation: Low support for rare classes affected confusion matrix reliability.
+ 
  ## 9.Recommendations
  
  * Use the ML model as a pre-screening tool for faster content review.
