@@ -115,7 +115,7 @@ This project operates at the confluence of:
 
 ## 4. Dataset Overview
 
-The dataset contains film records classified between 2022 and 2025 by KFCB.
+The dataset contains film records classified between FY 2022/2023 and FY 2024/2025 by KFCB.
 
 
 
